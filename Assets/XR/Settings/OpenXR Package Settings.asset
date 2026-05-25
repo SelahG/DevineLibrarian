@@ -696,26 +696,26 @@ MonoBehaviour:
   m_Name: Android
   m_EditorClassIdentifier: Unity.XR.OpenXR::UnityEngine.XR.OpenXR.OpenXRSettings
   features:
-  - {fileID: 2039745022064781665}
-  - {fileID: -5377386195800308134}
-  - {fileID: 3071620144965026584}
-  - {fileID: 7905867787888606989}
-  - {fileID: 1620800491482405146}
-  - {fileID: -4816660758913061312}
-  - {fileID: 6784278182133235302}
-  - {fileID: -1488016709840722658}
-  - {fileID: -2993366225601462680}
-  - {fileID: 8563875995850822281}
-  - {fileID: 2065503026650511474}
   - {fileID: 7916409466164947109}
+  - {fileID: -4279228659280553474}
+  - {fileID: 1620800491482405146}
+  - {fileID: 2065503026650511474}
+  - {fileID: -2993366225601462680}
+  - {fileID: 7182935167441906236}
+  - {fileID: -7284982599210118627}
   - {fileID: 2563415491000313327}
   - {fileID: -4652050425776112876}
-  - {fileID: 391787918735132359}
-  - {fileID: -7284982599210118627}
-  - {fileID: 7182935167441906236}
-  - {fileID: 6469941878534337029}
-  - {fileID: -4279228659280553474}
   - {fileID: 8270824858962154479}
+  - {fileID: 7905867787888606989}
+  - {fileID: 6469941878534337029}
+  - {fileID: 8563875995850822281}
+  - {fileID: -1488016709840722658}
+  - {fileID: 3071620144965026584}
+  - {fileID: -5377386195800308134}
+  - {fileID: 6784278182133235302}
+  - {fileID: -4816660758913061312}
+  - {fileID: 2039745022064781665}
+  - {fileID: 391787918735132359}
   - {fileID: -5672033356568262562}
   customLoaderName: 
   m_renderMode: 1
@@ -729,7 +729,7 @@ MonoBehaviour:
   m_symmetricProjection: 0
   m_optimizeMultiviewRenderRegions: 0
   m_multiviewRenderRegionsOptimizationMode: 0
-  m_hasMigratedMultiviewRenderRegionSetting: 0
+  m_hasMigratedMultiviewRenderRegionSetting: 1
   m_foveatedRenderingApi: 0
   m_useOpenXRPredictedTime: 0
 --- !u!114 &41592546795251594
@@ -1531,7 +1531,7 @@ MonoBehaviour:
   lateLatchingDebug: 0
   optimizeMultiviewRenderRegions: 0
   m_multiviewRenderRegionsOptimizationMode: 0
-  m_hasMigratedMultiviewRenderRegions: 0
+  m_hasMigratedMultiviewRenderRegions: 1
   spacewarpMotionVectorTextureFormat: 0
 --- !u!114 &7916409466164947109
 MonoBehaviour:
