@@ -3,7 +3,17 @@ guid: 4a0e0b4065deb4a4ca7a82e979ef8004
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CeilingRim
+    second: {fileID: 2100000, guid: 60f65a31cee659a46b96c729e11fe4d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 04241c5232ff7ed4bbac62ae40bd964c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

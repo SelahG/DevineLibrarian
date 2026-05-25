@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7ce64a0164acd3f40850b5551cc2f334
+guid: 736e219a1cc5cd44699d5f032476881e
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -7,23 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Floor
-    second: {fileID: 2100000, guid: b4d97bb0c9f1c2e4c836c0a364e81f4a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Glass
-    second: {fileID: 2100000, guid: c2e36c19d224a694fb09646c98df3792, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wall
-    second: {fileID: 2100000, guid: f02b9ae00434dcf4283daf7430d2a9e3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wall.ClalkBoard
-    second: {fileID: 2100000, guid: d700705e33d4f7e4fbb9ca089be4ada7, type: 2}
+      name: Railing
+    second: {fileID: 2100000, guid: 7317f7f0c89eca649b2f618b18d6af27, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

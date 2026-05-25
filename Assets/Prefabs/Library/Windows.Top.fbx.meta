@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7ce64a0164acd3f40850b5551cc2f334
+guid: a36b8436f26375d4d85d1b709151ba00
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -7,23 +7,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Floor
-    second: {fileID: 2100000, guid: b4d97bb0c9f1c2e4c836c0a364e81f4a, type: 2}
+      name: Arches
+    second: {fileID: 2100000, guid: dc3e4f8883b323441a4b76fb9c0fc54a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Glass
-    second: {fileID: 2100000, guid: c2e36c19d224a694fb09646c98df3792, type: 2}
+    second: {fileID: 2100000, guid: effb82919378b194e985bac83d7a7c07, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Wall
-    second: {fileID: 2100000, guid: f02b9ae00434dcf4283daf7430d2a9e3, type: 2}
+      name: WindowBorder
+    second: {fileID: 2100000, guid: ed238436f277bed49afc28061014a6a7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Wall.ClalkBoard
-    second: {fileID: 2100000, guid: d700705e33d4f7e4fbb9ca089be4ada7, type: 2}
+      name: WindowSeating
+    second: {fileID: 2100000, guid: 699aa2f11c6403749892317a8dd6ca31, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

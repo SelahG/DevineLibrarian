@@ -3,7 +3,27 @@ guid: a8210d104deeb724ca8d7f969da0ceca
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BibleCase
+    second: {fileID: 2100000, guid: 860a2fd74f7391d4895e33395a359e96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BibleCase.001
+    second: {fileID: 2100000, guid: f4e476fa04821594b9812d3c30b25d60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CenterTable.Bottom
+    second: {fileID: 2100000, guid: 321201ee0579c6a498bf76d01752ff21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: d13682d656160e24aa74da13c51ccf47, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
