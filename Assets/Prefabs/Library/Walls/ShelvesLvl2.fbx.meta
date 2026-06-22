@@ -3,7 +3,92 @@ guid: bf66c782f8a270445a44fc5b64e068cd
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background
+    second: {fileID: 2100000, guid: 550ea30137c994e479d0492dcb76f7c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background.013
+    second: {fileID: 2100000, guid: e1f759de873915241853334a5b57db25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background.015
+    second: {fileID: 2100000, guid: 58255c08b7d6f7741be7b07689e72223, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DarkShelf
+    second: {fileID: 2100000, guid: ac3dcabed427e9149aef2f5a23b33427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: bbfdc82dbfd6b924f945b3d45f9965c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: efa55b7ca8507f647b3f09a60127e94b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass.001
+    second: {fileID: 2100000, guid: 41fb9e9679ed74f4fa93fadb5a017da6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LeafPlatform
+    second: {fileID: 2100000, guid: a243fcac49e3c034a9fae58325ed3cfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Log.006
+    second: {fileID: 2100000, guid: 3812614049c3a3d4483eeae4f8f45d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moss.001
+    second: {fileID: 2100000, guid: fdc48a99fafed3b45b36f3b8b2ef8eac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vine
+    second: {fileID: 2100000, guid: 65035c7d3911e2b4aab0e27e7b591a46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vine.001
+    second: {fileID: 2100000, guid: 111a6e24485ec4149bf231282d1ae92e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vine.005
+    second: {fileID: 2100000, guid: 000bcd54e3623704788be6a7e3a183ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sHELF
+    second: {fileID: 2100000, guid: 313cefc5631ed594c95b45bcd766d6b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sHELF.001
+    second: {fileID: 2100000, guid: 20dc496cef5c36b41b8706ee328b451a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sHELF.009
+    second: {fileID: 2100000, guid: bdf128d0fb2a8a94b899e07a4867af00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sHELF.010
+    second: {fileID: 2100000, guid: 8c9fdc791a07eba42a9d1e1b18619787, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

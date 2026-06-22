@@ -3,7 +3,87 @@ guid: 715e736fff597794fa89bb129f5ffbe2
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background
+    second: {fileID: 2100000, guid: aa80b3d7ad78e8549832806756fbd6c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background.003
+    second: {fileID: 2100000, guid: cacdf63f8ca4ab14390f25608b105a87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background.004
+    second: {fileID: 2100000, guid: e5e374910729b964c91b4baa044d3597, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background.005
+    second: {fileID: 2100000, guid: 5b71e92390e654a43a33869a8c8198e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background.006
+    second: {fileID: 2100000, guid: d822cac90577a4448aaf83520c34cc32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet1.001
+    second: {fileID: 2100000, guid: 85653808223366e40bcec5fc63d73937, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet2.001
+    second: {fileID: 2100000, guid: 5c83fd2f8fb8fa54b9406e2a8facf554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet2.003
+    second: {fileID: 2100000, guid: e3e1fd8ebb7780f4f96fb0818a267746, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: b3c9c1e2cfac8b9449b5b130b6dafb5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass.001
+    second: {fileID: 2100000, guid: face747b2b2c73444b891292f55e582f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moss.001
+    second: {fileID: 2100000, guid: 71fe7a817bdacf74bbf910ba25ff3534, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shelf
+    second: {fileID: 2100000, guid: 8dd4d044e6350224c9a496cb8c164f75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shelf.001
+    second: {fileID: 2100000, guid: 3c8b789267e0f464db255dbdeb93ae3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sHELF.004
+    second: {fileID: 2100000, guid: ac4fb9792e31ba34e81884f7502060a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sHELF.006
+    second: {fileID: 2100000, guid: f2d8a93251381e146b622451ba8673ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sHELF.007
+    second: {fileID: 2100000, guid: a55092c6d0ee5c748970dd0b5c8c8251, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

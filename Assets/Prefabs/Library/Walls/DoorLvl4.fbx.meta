@@ -3,7 +3,17 @@ guid: ed4ef5fd6c963e14fb723d8b5a6bb7b8
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background
+    second: {fileID: 2100000, guid: 097c3fb0f28dd8f488b765a7dc930547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lilly
+    second: {fileID: 2100000, guid: 0f727c1a23691b84bab8a35d69f19b23, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,47 @@ guid: 40a5178578b44d54db887465eca20908
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DirtFloor
+    second: {fileID: 2100000, guid: 3db504bc78c20e14faec73f4b493f6c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 791831e63e86fb8448e4e535cb09b4e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass.005
+    second: {fileID: 2100000, guid: 39dfb0c0323c80e40b6430b6b6ae544a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Log.004
+    second: {fileID: 2100000, guid: 165be6ca0be3b2d42b1a0f4d6fec2654, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Log.011
+    second: {fileID: 2100000, guid: 9af946680c870644492ab049d98b5870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofLeafs.002
+    second: {fileID: 2100000, guid: 633b9712cc977684fb6710b4c1f7d28b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofLeafs.003
+    second: {fileID: 2100000, guid: e30a9be47f3a88b49bfacd9065df90c5, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LeafTexture0001
+    second: {fileID: 2800000, guid: c0d2b2156d75ccb40bf5a134b250e4c7, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
