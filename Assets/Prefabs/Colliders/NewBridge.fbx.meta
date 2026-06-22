@@ -1,19 +1,9 @@
 fileFormatVersion: 2
-guid: fbe7d4ec69cf63d48a6f51deb8c852a6
+guid: b67a3e34e2cd0d14d993cdd77ed5fc04
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Bridge
-    second: {fileID: 2100000, guid: 59c6bb48ec813754385ae0071032bea3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Stairs
-    second: {fileID: 2100000, guid: ba964dbd604c8ee4e9576f67a0bc060c, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

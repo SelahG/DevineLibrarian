@@ -1,29 +1,9 @@
 fileFormatVersion: 2
-guid: a36b8436f26375d4d85d1b709151ba00
+guid: 7c1c1c48bc1f2d34bac1d534d4d01b73
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Arches
-    second: {fileID: 2100000, guid: dc3e4f8883b323441a4b76fb9c0fc54a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Glass
-    second: {fileID: 2100000, guid: effb82919378b194e985bac83d7a7c07, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: WindowBorder
-    second: {fileID: 2100000, guid: ed238436f277bed49afc28061014a6a7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: WindowSeating
-    second: {fileID: 2100000, guid: 699aa2f11c6403749892317a8dd6ca31, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

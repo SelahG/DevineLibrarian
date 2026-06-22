@@ -1,29 +1,9 @@
 fileFormatVersion: 2
-guid: 7ce64a0164acd3f40850b5551cc2f334
+guid: 54c081ab94e2e1644a964e14890fe0a0
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Floor
-    second: {fileID: 2100000, guid: b4d97bb0c9f1c2e4c836c0a364e81f4a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Glass
-    second: {fileID: 2100000, guid: c2e36c19d224a694fb09646c98df3792, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wall
-    second: {fileID: 2100000, guid: f02b9ae00434dcf4283daf7430d2a9e3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wall.ClalkBoard
-    second: {fileID: 2100000, guid: d700705e33d4f7e4fbb9ca089be4ada7, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

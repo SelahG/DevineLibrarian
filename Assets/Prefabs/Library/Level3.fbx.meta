@@ -1,24 +1,9 @@
 fileFormatVersion: 2
-guid: 8433c50fc7f8b1c4e9b90dde432be4ca
+guid: bf553a3c0b0fb48429c5bc943712042e
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: BookShelf.Top
-    second: {fileID: 2100000, guid: fb85e55ec71f363439be46d654cb23d4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: BookShelf.Top.001
-    second: {fileID: 2100000, guid: a91e4f88d00e660479b13185beb361c5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Pillers.Top.001
-    second: {fileID: 2100000, guid: ef7270ca26eca5f48b3144a2a2fe0ba5, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

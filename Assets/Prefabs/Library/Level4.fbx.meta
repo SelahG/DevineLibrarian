@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: b3d0f296c621c0140809f0629403b75f
+guid: 0eff452a2083fd741a3a44f4d13717c9
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Arches
-    second: {fileID: 2100000, guid: f66e4ceca21c5ec409634fb02c00c677, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

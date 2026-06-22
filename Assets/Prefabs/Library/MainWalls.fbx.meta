@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: 736e219a1cc5cd44699d5f032476881e
+guid: 459276b8a501a314e8d1f9407deb6c89
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Railing
-    second: {fileID: 2100000, guid: 7317f7f0c89eca649b2f618b18d6af27, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
