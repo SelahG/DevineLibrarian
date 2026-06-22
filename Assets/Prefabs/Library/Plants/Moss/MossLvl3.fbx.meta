@@ -3,7 +3,27 @@ guid: f79bcc3fd13c637489a6b76cb497211f
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dirt.001
+    second: {fileID: 2100000, guid: f7501fb4a32355a4f88ecc1c1999787c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dirt.002
+    second: {fileID: 2100000, guid: c4dab3a55bddd424a9d784ddc746c828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmallGrassLumps.Baked
+    second: {fileID: 2100000, guid: c16b4df6d0ea2624e9d0ed5d7711217c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GrassLumps2.Roughness
+    second: {fileID: 2800000, guid: 0be13cc80e391da489117603aa755821, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
