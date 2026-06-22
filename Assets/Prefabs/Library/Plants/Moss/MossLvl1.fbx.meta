@@ -3,7 +3,52 @@ guid: 19340ac486fb77249b6c0b18a4653574
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dirt.001
+    second: {fileID: 2100000, guid: 5a6cd697633b52b468a4e8676a632fdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dirt.002
+    second: {fileID: 2100000, guid: 7f2bd7a5ba87f224fb38bfcc57eca72a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrassMounds.Baked
+    second: {fileID: 2100000, guid: e0cd691e2ea4a4f46833d05d39afe7a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrassMounds.Baked.001
+    second: {fileID: 2100000, guid: 66b98f69b25874949a5a468ea8aef296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmallGrassLumps.Baked
+    second: {fileID: 2100000, guid: a51db72fc975c3e479f66b7a57eee561, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grass.Diffuse
+    second: {fileID: 2800000, guid: 08e7a1e689b23ee4699f130e44109bfc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grass.Normal
+    second: {fileID: 2800000, guid: 192ff6ec3bc283f4ab7c524b59f64b99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grass.Roughness
+    second: {fileID: 2800000, guid: 1b3b700ef58bed04e8fc5c07b4cf4b61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GrassLumps2.Roughness
+    second: {fileID: 2800000, guid: 9c61893df2251f1419440f0720e2ebb6, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
