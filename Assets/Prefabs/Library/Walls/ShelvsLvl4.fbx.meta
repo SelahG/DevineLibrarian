@@ -3,7 +3,67 @@ guid: 1fe822db519176240b681511d0f8b0f1
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background
+    second: {fileID: 2100000, guid: 807b18a1b7b37f448a75e2bfc4987286, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background.009
+    second: {fileID: 2100000, guid: 2887c6d28a6808a42811aefd8b0d08dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet2.002
+    second: {fileID: 2100000, guid: 895387f580362804b9820ed58aa0208a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass.003
+    second: {fileID: 2100000, guid: 20979eff1eaa858488a16470853a612f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaf
+    second: {fileID: 2100000, guid: 06bea644eef58da4ea3ce3c4e84870d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leafs
+    second: {fileID: 2100000, guid: b919c8f52d0d2334a837e3a700e4870c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lilly
+    second: {fileID: 2100000, guid: 745c935988569634483fc6367b72d9f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.001
+    second: {fileID: 2100000, guid: 7114a432bee40b14e82a96e4397512bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vine.004
+    second: {fileID: 2100000, guid: fc1bfe9aa7cf44443a6224d1b86ce614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vine.005
+    second: {fileID: 2100000, guid: b9471dfc09855ad4a947e242fe3e6d0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vine.006
+    second: {fileID: 2100000, guid: 60a9005af267ffb45a51aa70736a7e85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vine.007
+    second: {fileID: 2100000, guid: e3c7a67a111b858449b4f36945fc556e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

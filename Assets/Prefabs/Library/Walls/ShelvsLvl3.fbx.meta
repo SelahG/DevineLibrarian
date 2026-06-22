@@ -3,7 +3,72 @@ guid: 77b29a1be1eed37448b0c24a323c63cf
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background
+    second: {fileID: 2100000, guid: d607b8e172397354893c63aab6402eb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background.011
+    second: {fileID: 2100000, guid: 6faebc9ec095607459d2bd9b4619790f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background.012
+    second: {fileID: 2100000, guid: c6d16aea8cda09c4d8c0e0509d20f358, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet2
+    second: {fileID: 2100000, guid: 50d68404a9d5b7441918badb9b967a53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass.004
+    second: {fileID: 2100000, guid: 0ed19ec609f33f543bbb712f750e8bb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass.005
+    second: {fileID: 2100000, guid: c7aaa2b43a589db45b20346b9115bcc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Log.008
+    second: {fileID: 2100000, guid: 3ffe52a38a792594da469f13c405f387, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moss.002
+    second: {fileID: 2100000, guid: 2d6fe4d15b4dec04983342bba3331d36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vine
+    second: {fileID: 2100000, guid: 48ea45fbd732c834597ddd2d6adf09bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vine.001
+    second: {fileID: 2100000, guid: 17629a22f13a2d84395f40dd2b5770dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vine.002
+    second: {fileID: 2100000, guid: 73b2547220ab4f84682f90ba20078a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vine.003
+    second: {fileID: 2100000, guid: 7ed412c40fccf304581943e849372cb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sHELF.008
+    second: {fileID: 2100000, guid: a35076c79d750fe4ba94453062a80349, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
